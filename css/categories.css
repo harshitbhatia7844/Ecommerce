@@ -63,6 +63,17 @@
     padding-top: 10px;
     font-size: 1.4rem;
 }
+h3{
+    font-weight: bold;
+    text-align: center;
+}
+.brand p{
+    font-size: small;
+}
+#min,#max{
+    width: 60px;
+    border: 1px solid rgb(145, 145, 145);
+}
 .outer{
     height: auto;
     width: 100%;

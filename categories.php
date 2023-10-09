@@ -243,13 +243,25 @@
                 </div>
                 <div class="filter">
                     <h2 class="h2">Filters</h2>
+                    <div class="brand">
+                      <h3 class="h3">Brand</h3>
+                        <p><input type="checkbox" name="brand1" id=""> Apple</p>
+                        <p><input type="checkbox" name="brand2" id=""> Samsung</p>
+                        <p><input type="checkbox" name="brand3" id=""> vivo</p>
+                        <p><input type="checkbox" name="brand4" id=""> oppo</p>
+                        <p><input type="checkbox" name="brand5" id=""> redmi</p>
+                        <p><input type="checkbox" name="brand6" id=""> realme</p>
+                        <p><input type="checkbox" name="brand7" id=""> oneplus</p>
+                        <p><input type="checkbox" name="brand8" id=""> nokia</p>
+                    </div>
+                      <h3 class="h3">Size</h3>
+                      <p><input type="checkbox" name="brand1" id=""> Small</p>
+                      <p><input type="checkbox" name="brand1" id=""> Medium</p>
+                      <p><input type="checkbox" name="brand1" id=""> Large</p>
+                      <h3 class="h3">Price</h3>
+                      <p>MIN : <input type="text" name="min" id="main"></p>
+                      <p>MAX : <input type="text" name="max" id="max"></p>
 
-                    <div class="ctry-1"><a href="main.php">Brands</a><br></div>
-                    <div class="ctry-1"><a href="main.php">Price</a><br></div>
-                    <div class="ctry-1"><a href="main.php">Colour</a><br></div>
-                    <div class="ctry-1"><a href="main.php">Size</a><br></div>
-                    <div class="ctry-1"><a href="main.php">Style</a><br></div>
-                    <div class="ctry-1"><a href="main.php">Type</a><br></div>
                 </div>
             </div>
             <div class="outer">
